@@ -1,4 +1,4 @@
-# Pinterest Downloader Telegram Bot V2
+# Pinterest Downloader Telegram Bot 
 
 [فارسی](#فارسی) · [English](#english)
 
