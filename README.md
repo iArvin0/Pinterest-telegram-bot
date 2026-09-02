@@ -26,7 +26,7 @@ A production-friendly Telegram bot that downloads photos and videos from public 
 ### Quick start
 
 ```bash
-git clone https://github.com/iArvin0/pinterest-telegram-bot.git
+git clone https://github.com/iArvin0/Pinterest-telegram-bot.git
 cd pinterest-telegram-bot
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
@@ -119,7 +119,7 @@ Download only content you own or have permission to use. Respect copyright, priv
 ### نصب سریع
 
 ```bash
-git clone https://github.com/iArvin0/pinterest-telegram-bot.git
+git clone https://github.com/iArvin0/Pinterest-telegram-bot.git
 cd pinterest-telegram-bot
 python -m venv .venv
 source .venv/bin/activate
